@@ -1,2 +1,3 @@
 # Frontend1
-all frontend 1 projects
+
+A collection of projects from frontend 1 Javascript
