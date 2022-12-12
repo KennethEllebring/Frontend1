@@ -1,0 +1,18 @@
+[{
+  "_SECRET_KEY": "28e75236-04d6-419b-a190-33457c689342",
+  "birthYear": "1999/11/09",
+  "discord": "Neophron#9084",
+  "firstname": "Vadzim",
+  "github": "w44t3r",
+  "lastname": "Kulikouski",
+  "personalityType": "röd",
+  "zodiac": {
+    "name": "Scorpio",
+    "element": "water",
+    "stone": "beryl",
+    "symbol": "♏",
+    "dateMin": "2000-10-24",
+    "dateMax": "2000-11-22"
+  }
+}
+]

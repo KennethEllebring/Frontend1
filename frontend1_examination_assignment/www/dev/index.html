@@ -1,0 +1,56 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>Sandbox for trying code</title>
+    <script src="script.js"></script>
+    <link rel="stylesheet" href="styles.css" />
+  </head>
+  <body>
+    <main>
+      <br />
+      <br />
+      <br />
+      <br />
+      <h1>Frontend 1: Examination from Kenneth Ellebring WEB22</h1>
+      <section id="MainDescription">
+        <h2>This is the work from a true artist:</h2>
+      </section>
+      <div>
+        <a class="problem" href="./problemfun/problem.html">Problem <br />Definition</a>
+      </div>
+      <br />
+      <form class="form" id="formReg">
+        <label>Choose what to sort on:</label>
+        <select id="userChoice" name="userChoice">
+          <option value="No sorting">--Please choose sorting--</option>
+          <option value="Group sorting">Group</option>
+          <option value="Name sorting">Name</option>
+          <option value="Discord sorting">Discord</option>
+          <option value="Github sorting">Github</option>
+          <option value="Personality sorting">Personality</option>
+          <!-- <option value="New sorting">New sorting</option> -->
+        </select>
+        <input class="button" type="submit" value="Sort" />
+      </form>
+      <br />
+      <p id="output">You choose:</p>
+      <table>
+        <tr>
+          <th>Group</th>
+          <th>Full name</th>
+          <th>Discord</th>
+          <th>Github</th>
+          <th>Personality</th>
+          <th>Specials</th>
+          <!-- <th>Newproperty</th>-->
+          <!-- add this if you want another header for the table -->
+        </tr>
+        <tbody id="table"></tbody>
+      </table>
+    </main>
+    <br />
+    <br />
+    <a href="https://github.com/KennethEllebring">Authored by: "Kenneth Ellebring 2022"</a>
+    <a href="#" class="stamp" onclick="close_window();return false;">X</a>
+  </body>
+</html>

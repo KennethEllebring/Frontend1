@@ -1,0 +1,16 @@
+{
+  "firstname": "Lucas",
+  "lastname": "Larsson",
+  "discord": "KungLucas",
+  "github": "LucasElite",
+  "personalityType": "rod",
+  "birthYear": "1990",
+  "zodiac": {
+    "name": "Aquarius",
+    "element": "air",
+    "stone": "garnet",
+    "symbol": "♒",
+    "dateMin": "2000-01-21",
+    "dateMax": "2000-02-19"
+  }
+}

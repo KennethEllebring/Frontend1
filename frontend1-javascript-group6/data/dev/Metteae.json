@@ -1,0 +1,16 @@
+{
+  "firstname": "Mette",
+  "lastname": "af Ekenstam",
+  "discord": "metteae #6167",
+  "github": "Metteae",
+  "personalityType": "röd",
+  "birthYear": "1977",
+  "zodiac": {
+    "name": "Libra",
+    "element": "air",
+    "stone": "chrysolite",
+    "symbol": "♎",
+    "dateMin": "2000-09-24",
+    "dateMax": "2000-10-23"
+  }
+}

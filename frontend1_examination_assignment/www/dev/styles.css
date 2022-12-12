@@ -1,0 +1,96 @@
+body {
+  text-align: center;
+  background-color: #000000;
+  color: rgb(0, 255, 0);
+  margin-top: 2%;
+}
+table {
+  width: 1200px;
+  border-spacing: 0px;
+  margin-left: auto;
+  margin-right: auto;
+}
+th {
+  text-decoration: underline;
+  min-width: 200px;
+  font-size: x-large;
+  padding-bottom: 10px;
+}
+td {
+  border-top: 1px solid;
+  border-bottom: 1px solid;
+  padding-top: 10px;
+  padding-bottom: 10px;
+  text-align: center;
+}
+
+.stamp {
+  color: #000000;
+  font-size: 40px;
+  background-color: #232323;
+  text-shadow: 0 0 20px rgb(0, 255, 0), 0 0 40px rgb(0, 255, 0), 0 0 50px rgb(0, 255, 0), 0 0 60px #49ff18;
+  box-shadow: inset 0px 3px 5px #000000;
+  border: #00ff22 solid;
+  border-width: 4px;
+  border-radius: 50%;
+  border-left: 16px;
+  border-right: 16px;
+  padding: 10px;
+  padding-left: 60px;
+  padding-right: 60px;
+  position: absolute;
+  top: 4%;
+  right: 32px;
+  font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
+  transition: box-shadow 2s, border-top 1s, padding-top 1s, top 1s, right 1s;
+}
+.stamp:hover {
+  border-top: 12px #00ff22 solid;
+  box-shadow: inset 0px 3px 5px #000000;
+  padding-top: 2px;
+  position: absolute;
+  top: 4%;
+  right: 32px;
+}
+
+.problem {
+  color: #000000;
+  font-size: 25px;
+  background-color: #232323;
+  text-shadow: 0 0 20px rgba(0, 255, 0, 0.534), 0 0 40px rgba(0, 255, 0, 0.493), 0 0 50px rgb(0, 255, 0), 0 0 60px #49ff18;
+  box-shadow: inset 0px 3px 5px #000000;
+  border: #00ff22 solid;
+  border-width: 4px;
+  border-radius: 50%;
+  border-left: 16px;
+  border-right: 16px;
+  padding: 10px;
+  padding-left: 60px;
+  padding-right: 60px;
+  top: 4%;
+  right: 32px;
+  position: absolute;
+  margin-top: 0%;
+  margin-right: 80%;
+  font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
+  transition: box-shadow 2s, border-top 1s, padding-top 1s, top 1s, right 1s;
+}
+.problem:hover {
+  box-shadow: inset 0px 3px 5px #000000;
+  border-top: 12px #00ff22 solid;
+  padding-top: 2px;
+  top: 4%;
+  right: 32px;
+}
+a:link {
+  text-decoration: none;
+}
+a:visited {
+  text-decoration: none;
+}
+a:hover {
+  text-decoration: none;
+}
+a:active {
+  text-decoration: none;
+}
